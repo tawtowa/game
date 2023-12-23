@@ -1,0 +1,5 @@
+# ide settings
+.vscode
+
+# save files
+saves/*.save
